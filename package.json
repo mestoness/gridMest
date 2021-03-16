@@ -1,0 +1,23 @@
+{
+  "name": "gridmest",
+  "version": "1.0.13",
+  "description": "a CSS grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mestoness/gridmest.git"
+  },
+  "keywords": [
+    "css-framework",
+    "css-grid-system"
+  ],
+  "author": "MestOness (Ahmet Baki Memiş)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mestoness/gridmest/issues"
+  },
+  "homepage": "https://github.com/mestoness/gridmest#readme"
+}
