@@ -1,8 +1,8 @@
 {
   "name": "gridmest",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "a CSS grid system",
-  "main": "dist/css/gridmest.min.css",
+  "main": "css/gridmest.min.css",
   "scripts": {
     "test": "echo \"No test specified\""
   },
