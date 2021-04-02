@@ -4,7 +4,7 @@ Author : Ahmet Baki Memiş
 
 <h3><a href="https://github.com/mestoness/gridmest/archive/master.zip">Download (.zip)</a></h3>
 
-CDN
+## CDN
 
 ><a href="https://cdn.jsdelivr.net/npm/gridmest/css/gridmest.css">https://cdn.jsdelivr.net/npm/gridmest/css/gridmest.css</a>
 
@@ -17,7 +17,7 @@ Or
 ><a href="https://unpkg.com/gridmest@1.0.1/css/gridmest.min.css">https://unpkg.com/gridmest/css/gridmest.min.css</a>
 
 
-Usage
+## Usage
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/gridmest/css/gridmest.min.css">
 
@@ -44,7 +44,7 @@ Or
 >.ns-col-xl- (xlarge devices - screen width equal to or greater than 1200px)
 
 
-Example <hr>
+## Example 
 ``` html
 <div class="ns-container">
   <div class="ns-row">
