@@ -29,8 +29,9 @@ Or
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/gridmest/css/gridmest.min.css">
 
 
-```
 
+```
+## Usage Notes
 
 
 >.ns-col- (extra small devices - screen width less than 576px)
