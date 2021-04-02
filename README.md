@@ -1,8 +1,5 @@
 # gridmest | CSS Framework
 Author : Ahmet Baki Memiş
-``` md
-npm install gridmest
-```
 <p align="left"><img src="https://img.shields.io/github/license/mestoness/gridmest?style=for-the-badge"/> <img src="https://img.shields.io/npm/v/gridmest?style=for-the-badge"/>  <img src="https://img.shields.io/npm/dt/gridmest?style=for-the-badge"/> </p>
 
 <h3><a href="https://github.com/mestoness/gridmest/archive/master.zip">Download (.zip)</a></h3>
